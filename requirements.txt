@@ -1,0 +1,16 @@
+scikit_image
+matplotlib
+numpy
+torchnet
+pandas
+gensim
+torch
+visdom
+nltk
+Cython
+torchvision
+fire
+ipdb
+tqdm
+six
+Pillow
